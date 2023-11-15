@@ -1,7 +1,7 @@
 # python
 Fundamentos da Linguagem Python | Ada Cursos
 
-    * Aula 01 - Setup: Instalação | Configurações Iniciais
+        * Aula 01 - Setup: Instalação | Configurações Iniciais
 		Link: https://www.youtube.com/watch?v=VwC3NzdxKmk&t=1s
 
 		* Aula 02 - Entrada e Saída de Dados
